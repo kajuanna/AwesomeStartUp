@@ -1,0 +1,1 @@
+This code will allow random people from site sources to be pulled and diplayed on to webpage. You can click on each person and the modal will display that persons information. If you hit the close button on the modal then you can repeat the same step for each person.
